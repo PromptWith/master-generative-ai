@@ -1,10 +1,18 @@
 # 마스터 생성 AI - 실습 코드
 
 
-![마스터 생성 AI - 샹성AI를 활용할 줄 알면 세상이 달라진다 - ChatGPT, DALL-E, Stable Diffusion, Midjourney, 이미지 셍상 AI](images/cover.jpg)
+[![마스터 생성 AI - 샹성AI를 활용할 줄 알면 세상이 달라진다 - ChatGPT, DALL-E, Stable Diffusion, Midjourney, 이미지 셍상 AI](images/cover.jpg)](https://product.kyobobook.co.kr/detail/S000202345390)
 
 
 마스터 생성 AI의 예제 코드 리포지토리에 오신 것을 환영합니다. 이 리포에는 Python을 사용한 AI 모델 생성 및 교육의 다양한 측면을 보여주는 Jupyter 노트북 모음이 포함되어 있습니다.
+
+## 구매
+[지금 구매](https://product.kyobobook.co.kr/detail/S000202345390)
+
+
+## 실습 
+[실습 영상 보기](https://promptwith.com/book/master-generative-ai/)
+
 
 ## 시작하기
 이 리포를 사용하려면 로컬로 clone해서 사용하면 됩니다. 예제는 ```examples``` 폴더에 있으며 Jupyter 노트북 환경을 또는 [google colab](https://colab.research.google.com/)를 사용하여 실행할 수 있습니다.
